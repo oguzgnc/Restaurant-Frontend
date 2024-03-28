@@ -234,15 +234,18 @@ a{
 
 .home{
     min-height: 100vh;/*!  bir tarayıcıda sayfayı açtıgınız anda gorulen yer kadar resmin çıkması*/
-    background: url(../yenı1/img/3.png) no-repeat;
+    background: url(../yenı1/img/pizza1.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     margin-top: -14.5rem;
     display: flex;
     align-items: center;
-
-
 }
+
+
+
+
+
 
 .home .content{
     max-width: 60rem;
@@ -259,7 +262,7 @@ a{
     font-weight: 300;
     line-height: 1.8;
     padding: 1rem 0;
-    color:red;
+    color:#fff;
 
 }
 
